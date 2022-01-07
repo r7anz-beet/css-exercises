@@ -17,7 +17,9 @@ button {
   color: black;
   font-size: small;
   text-align: center;
+  transition: font-size ease-in-out 0.5s ; 
 }
-.button:hover {
-transition: <font-size:large>;
+button:hover {
+font-size: large;
+cursor: crosshair;
 }
