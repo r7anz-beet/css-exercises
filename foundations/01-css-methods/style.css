@@ -1,5 +1,5 @@
-/* style.css */
-
-<div>
-color: white
-font-size: 32px</div>
+div {
+    color: white;
+    font-size: 32px;
+    
+}
