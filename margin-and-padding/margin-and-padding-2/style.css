@@ -20,7 +20,7 @@ body {
 .button-container {
   background: #e3f4ff;
   align-content: center;
-  margin-inline-start: auto;
+  display: block;
   margin: 8px;
 
 }
@@ -28,5 +28,5 @@ body {
 button {
   background: white;
   border: 1px solid #eee;
-  margin-block-start: auto;
+  display: block;
 }
