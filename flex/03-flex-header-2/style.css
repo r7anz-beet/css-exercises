@@ -43,11 +43,7 @@ button {
   display: flex;
 justify-content: flex-end;
   
-}
-.notifications {
-  display: flex;
-  justify-content: flex-end;
-}
+
 
 a {
   /* this removes the line under our links */
