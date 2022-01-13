@@ -13,6 +13,8 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   margin: 8px;
+  display: flex;
+  align-items: center;
 }
 
 .profile-image {
@@ -40,7 +42,7 @@ button {
   padding: 8px 24px;
   display: flex;
 justify-content: flex-end;
-  
+}
 
 
 a {
