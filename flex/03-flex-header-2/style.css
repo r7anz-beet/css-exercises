@@ -53,13 +53,13 @@ a {
 
 ul {
   list-style-type: none;
-  
-}
-.left {
   display: flex;
-  justify-content: flex-start;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
 }
-.right{
+.left .right {
   display: flex;
-  justify-content: flex-end;
+  align-items: center;
+  gap: 16px;
 }
