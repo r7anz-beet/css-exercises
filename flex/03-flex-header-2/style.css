@@ -40,6 +40,9 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  
+}
+.notifications {
   display: flex;
   justify-content: flex-end;
 }
