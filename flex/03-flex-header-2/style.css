@@ -34,7 +34,7 @@ body {
   justify-content: flex-start;
 }
 
-button {
+button .notifications {
   border: none;
   border-radius: 8px;
   background: rebeccapurple;
