@@ -11,6 +11,9 @@ body {
   color: #333;
   /* I'll give you this one for free lol */
   display: flex;
+  justify-content: center;
+  align-items: center;
+  
   
   
 
