@@ -9,8 +9,7 @@ body {
 
 img {
   width: 600px;
-  display: flex;
-  justify-content: center;
+  
 }
 
 button {
@@ -18,8 +17,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eeee;
-  display: flex;
-  justify-content: center;
+  align-content: center;
 }
 
 input {
