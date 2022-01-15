@@ -28,3 +28,8 @@ input {
 ul{
   list-style-type: none;
 }
+.footer{
+  background-color: lightgrey;
+  display: flex;
+  flex-direction: column-reverse;
+}
