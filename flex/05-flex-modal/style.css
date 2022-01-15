@@ -37,12 +37,10 @@ body {
   width: 42px;
   height: 42px;
   border-radius: 50%;
-  flex-shrink: 0;
+  
 }
 
-.container{
-  gap: 10px;
-}
+
 
 .close-button {
   background: #eee;
@@ -66,9 +64,7 @@ button.continue {
   background: royalblue;
   border: 1px solid royalblue;
   color: white;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  
 
 }
 
@@ -76,9 +72,7 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  
 }
 .modal {
   display: flex;
