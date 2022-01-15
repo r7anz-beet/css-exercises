@@ -32,4 +32,13 @@ ul{
   background-color: lightgrey;
   display: flex;
   flex-direction: column-reverse;
+  padding: 10px;
+}
+.left-links{
+  display: flex;
+  justify-content: flex-start;
+}
+.right-links{
+  display: flex;
+  justify-content: flex-end;
 }
