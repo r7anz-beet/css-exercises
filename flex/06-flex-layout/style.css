@@ -42,16 +42,7 @@ ul{
   background: lightgrey;
   
 }
-.left-links{
-  display: flex;
-  justify-content: flex-start;
-  align-content: space-between;
-}
-.right-links{
-  display: flex;
-  justify-content: flex-end;
-  align-content: space-between;
-}
+
 
 .header,
 .footer {
