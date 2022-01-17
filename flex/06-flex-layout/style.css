@@ -17,6 +17,8 @@ button {
   border: none;
   border-radius: 8px;
   background: #eeee;
+  display: flex;
+  justify-self: center;
   
 }
 
