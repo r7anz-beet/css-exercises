@@ -17,8 +17,7 @@ button {
   border: none;
   border-radius: 8px;
   background: #eeee;
-  display: flex;
-  justify-self: center;
+
   
 }
 
@@ -48,7 +47,4 @@ ul{
   justify-content: flex-end;
   align-content: space-between;
 }
-.content{
-  display: flex;
-  justify-content: center;
-}
+
